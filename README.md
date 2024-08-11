@@ -23,6 +23,6 @@ This project involved the creation of a comprehensive program for digital forens
 
 
 
-SOC ANALYST:
+SOC ANALYST (DOMAIN MAPPER):
 
 This project centers on developing a system that facilitates different types of network attacks for cybersecurity testing purposes. The system can generate three distinct types of attacks, each of which has a detailed description for user comprehension. It scans and displays network IP addresses and a list of possible attack methods. Users can select a specific or random attack and choose a target from the discovered IPs. The system logs every attack choice, including the type of attack, execution time, and target IP, stored in a log file at /var/log
